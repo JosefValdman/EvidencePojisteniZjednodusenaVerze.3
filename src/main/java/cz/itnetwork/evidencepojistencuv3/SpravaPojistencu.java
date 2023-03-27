@@ -84,6 +84,23 @@ public class SpravaPojistencu {
         sc.nextLine();
     }
 
+    // Předchozí verze vyhledáváni přesně podle jména a příjmeni
+/*    public void vyhledejPojisteneho() {
+        if (!jeDatabazePrazdna()) {
+            String jmeno = zjistiJmeno();
+            String prijmeni = zjistiPrijmeni();
+            System.out.printf("Hledáte jmeno: %s, příjmení: %s.\n\n", jmeno, prijmeni);
+            evidence = databaze.najdiPojisteneho(jmeno, prijmeni);
+            if (evidence.isEmpty()) {
+                System.out.println("\nNení v Evidenci!");
+            }
+            evidence.forEach(System.out::println);
+        }
+        System.out.println(doplnText());
+        sc.nextLine();
+    }
+ */
+
     public void vyhledejPojisteneho() {
         if (!jeDatabazePrazdna()) {
             String jmeno = zjistiJmeno();

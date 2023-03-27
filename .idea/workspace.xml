@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abc3dcd6-d3aa-4f3f-b843-d9e4be9f45ac" name="Changes" comment="" />
+    <list default="true" id="abc3dcd6-d3aa-4f3f-b843-d9e4be9f45ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/itnetwork/evidencepojistencuv3/DatabazePojistencu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/itnetwork/evidencepojistencuv3/DatabazePojistencu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/itnetwork/evidencepojistencuv3/SpravaPojistencu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/itnetwork/evidencepojistencuv3/SpravaPojistencu.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +16,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="92a7eb7a-a4d4-425b-b505-4cc29cd52491" />
+        <option name="url" value="https://github.com/JosefValdman/EvidencePojisteniZjednodusenaVerze.3.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27,6 +44,9 @@
         <option name="workspaceImportEnabled" value="true" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2NaydYXTsv5HufPnwF7QmYbDLQK" />
   <component name="ProjectViewState">

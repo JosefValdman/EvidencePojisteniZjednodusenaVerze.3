@@ -48,6 +48,17 @@ public class DatabazePojistencu {
         return new ArrayList<>(databaze);
     }
 
+    // Předchozí verze vyhledáváni přesně podle jména a příjmeni
+/*    public List<Pojistenec> najdiPojisteneho(String jmeno, String prijmeni) {
+        List<Pojistenec> nalezene = new ArrayList<>();
+        for (Pojistenec pojistenec : databaze) {
+            if (pojistenec.getJmeno().equalsIgnoreCase(jmeno) && pojistenec.getPrijmeni().equalsIgnoreCase(prijmeni)) {
+                nalezene.add(pojistenec);
+            }
+        }
+        return nalezene;
+    }
+*/
     /**
      * Vyhledávání Jména a Příjmení podle rovnosti nebo počátečních písmen.
      */
